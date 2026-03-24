@@ -1,7 +1,5 @@
 # ClaudeClaw
 
-![ClaudeClaw Banner](banner.jpg)
-
 A reference blueprint for building persistent, multi-agent Claude Code setups with Telegram and Discord.
 
 Give this document to your Claude Code and it becomes an expert in setting up channels, multi-agent architecture, crons, memory, and session management. Everything it needs to help you build your own agent team.
