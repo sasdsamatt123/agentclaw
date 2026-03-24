@@ -35,7 +35,7 @@ Make sure you have:
 Paste this into your Claude Code:
 
 ```
-I'm giving you a blueprint called ClaudeClaw. You can get it from https://github.com/sasdsamatt123/claudeclaw
+I'm giving you a blueprint called ClaudeClaw. You can get it from https://github.com/sasdsamatt123/agnetclaw
 
 Do a quick scan of what's in there and confirm everything looks clean before we proceed.
 
